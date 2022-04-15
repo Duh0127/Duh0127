@@ -1,6 +1,6 @@
 ### Eae, como vai? Meu nome é *Eduardo Okubo*
 ### Hey, what's up? Mi name is *Eduardo Okubo*
-### こっにちわ　ぼくは　の　なまえ　は *Eduardo Okubo*
+### こっにちわぼくはのなまえは *Eduardo Okubo*
 
 - 🔭 I'm currently studying the last module of System Development
 - 🌱 I’m currently learning Angular and React
