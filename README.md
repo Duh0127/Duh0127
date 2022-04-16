@@ -1,9 +1,11 @@
 ### Eae, como vai? Meu nome é *Eduardo Okubo*
 ### Hey, what's up? Mi name is *Eduardo Okubo*
 ### こっにちわぼくはのなまえは *Eduardo Okubo*
+<br>
+
 
 - 🔭 I'm currently studying the last module of System Development
-- 🌱 I’m currently learning Angular and React
+- 🌱 I’m learning React, Java and Arduino
 - 😄 Pronouns: He / His
 - ⚡ Hobby: Videogames and learn programming languages
 
@@ -14,7 +16,8 @@
 </div>
 
   
-<div style="display: inline_block"><br>   
+<div style="display: inline_block"><br>
+  <img align="center" alt="Edu-SQL" height="30" width="40" src="https://camo.githubusercontent.com/920386c6e944d35decd4cee44dfe4e14f51c8fab38b32c881cccac058b79c501/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3438302f6d6963726f736f66742d73716c2d7365727665722e706e67">
   <img align="center" alt="Edu-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Edu-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
