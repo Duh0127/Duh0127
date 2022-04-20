@@ -5,7 +5,7 @@
 
 
 - 🔭 I'm currently studying the last module of System Development
-- 🌱 I’m learning React, Java and Arduino
+- 🌱 I’m learning React, Java, Arduino and Angular with Bootstrap
 - 😄 Pronouns: He / His
 - ⚡ Hobby: Videogames and learn programming languages
 
