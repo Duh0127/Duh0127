@@ -1,5 +1,5 @@
 ### Eae, como vai? Meu nome é *Eduardo Okubo*
-### Hey, what's up? Mi name is *Eduardo Okubo*
+### Hey, what's up? My name is *Eduardo Okubo*
 ### こっにちわぼくはのなまえは *Eduardo Okubo*
 <br>
 
