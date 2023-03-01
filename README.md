@@ -4,10 +4,10 @@
 <br>
 
 
-- 🔭 I'm currently studying the last module of System Development
-- 🌱 I’m learning React, Java, Arduino and Angular with Bootstrap
+- 🔭 I'm currently studying the first semester of system development on FIAP
+- 🌱 I’m learning Python, Java, JavaScript and DataBase
 - 😄 Pronouns: He / His
-- ⚡ Hobby: Videogames and learn programming languages
+- ⚡ Hobby: Skateboarding and learn programming languages
 
 <div align="center">
   <a href="https://beacons.com/Duh0127">
