@@ -32,7 +32,7 @@
   <img align="center" alt="Edu-Kotlin" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Edu-Arduino" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   
-  /*<img align="right" alt="Edu-picrew" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202204/684058_ubPQZGSg.png">*/
+  
   
   ##
   
