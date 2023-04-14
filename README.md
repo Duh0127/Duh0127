@@ -1,6 +1,6 @@
-### Eae, como vai? Meu nome é *Eduardo Okubo*
-### Hey, what's up? My name is *Eduardo Okubo*
-### こっにちわぼくはのなまえは *Eduardo Okubo*
+### Eae, como vai? Meu nome é *Eduardo Toshio Rocha Okubo*
+### Hey, what's up? My name is *Eduardo Toshio Rocha Okubo*
+### こっにちわぼくはのなまえは *Eduardo Toshio Rocha Okubo*
 <br>
 
 
