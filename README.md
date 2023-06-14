@@ -18,6 +18,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-SQL" height="30" width="40" src="https://camo.githubusercontent.com/920386c6e944d35decd4cee44dfe4e14f51c8fab38b32c881cccac058b79c501/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3438302f6d6963726f736f66742d73716c2d7365727665722e706e67">
+  <img align="center" alt="Edu-SQL-Oracle" height="35" width="50" src="https://github.com/Duh0127/Duh0127/assets/79117043/e13dbacd-f8c8-4c2f-b3a4-5f44c768c648">
   <img align="center" alt="Edu-Angular" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Edu-BootStrap" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Edu-HTML" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
