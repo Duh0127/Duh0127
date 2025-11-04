@@ -4,7 +4,6 @@
 <br>
 
 
-- 🔭 I'm currently studying the first year of system development on FIAP
 - 🌱 I’m learning GIT, Python, HTML, CSS, Figma, ReactJs, IBM AI, Java, JavaScript and Oracle DataBase
 - 😄 Pronouns: He / His
 - ⚡ Hobby: Skateboarding and learn programming languages
