@@ -4,7 +4,7 @@
 <br>
 
 
-- 🌱 I’m learning GIT, Python, HTML, CSS, Figma, ReactJs, IBM AI, Java, JavaScript and Oracle DataBase
+- 🌱 Full Stack Developer with ReactJs, NodeJs, SQL, AI and Python
 - 😄 Pronouns: He / His
 - ⚡ Hobby: Skateboarding and learn programming languages
 
